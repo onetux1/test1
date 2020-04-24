@@ -8,6 +8,7 @@ function HomePage() {
         <title>Ana Sayfa</title>
       </Head>
       <h1>Welcome to Next.js!</h1>
+      <p>Good</p>
       <style jsx>{``}</style>
     </Layout>
   )
