@@ -8,9 +8,9 @@ function Layout({ children }) {
         <title>frekans7'nin web sayfasi</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <Navigation />
+      {/* <Navigation /> */}
       <main>{children}</main>
-      <footer>design by oneTux1</footer>
+      {/* <footer>design by oneTux1</footer> */}
     </div>
   )
 }
